@@ -4,8 +4,6 @@ Loren Aman
 Network and Security Engineer, Developer
 ----------------------------------------------
 
-Involved in Security for 20 years, came from Networking, and Develop Code as a Hobby
-
 *   🌍  I'm based in Minnesota
 *   ✉️  You can contact me at [loren.d.aman@gmail.com](mailto:loren.d.aman@gmail.com)
 
