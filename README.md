@@ -1,7 +1,7 @@
 Hi 👋 My name is Loren Aman
 ===========================
 
-Network and Security Engineer. Hobby Developer
+Network and Security Engineer, Developer
 ----------------------------------------------
 
 Involved in Security for 20 years, came from Networking, and Develop Code as a Hobby
