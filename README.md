@@ -8,7 +8,6 @@ Involved in Security for 20 years, came from Networking, and Develop Code as a H
 
 *   🌍  I'm based in Minnesota
 *   ✉️  You can contact me at [loren.d.aman@gmail.com](mailto:loren.d.aman@gmail.com)
-*   🧠  I'm learning Rust<br><br><br>
 
 <a href="https://www.x.com/AmanLoren" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/AmanLoren?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
