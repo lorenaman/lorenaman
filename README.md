@@ -1,4 +1,4 @@
-Hi 👋 My name is Loren Aman
+Loren Aman
 ===========================
 
 Network and Security Engineer, Developer
